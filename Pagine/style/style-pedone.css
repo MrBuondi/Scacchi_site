@@ -1,17 +1,17 @@
 #video1{
-    left: 375px;
+    left: 325px;
     position: relative;
 }
 
 #video2{
-    left: 675px;
-    position: absolute;
+    left: 485px;
+    position: relative;
     
 }
 
 #video3{
-    right: 375px;
-    position: absolute;
+    left: 623px;
+    position: relative;
 }
 
 #video4{
