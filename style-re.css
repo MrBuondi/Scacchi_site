@@ -1,0 +1,17 @@
+#div1{
+    left: 325px;
+    top: 457px;
+    position: absolute;
+}
+
+#div2{
+    left: 645px;
+    top: 455.5px;
+    position: absolute;
+}
+
+#div3{
+    right: 325px;
+    top: 455.5px;
+    position: absolute;
+}

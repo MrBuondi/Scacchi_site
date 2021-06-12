@@ -1,0 +1,14 @@
+#div1{
+    left: 325px;
+    position: absolute;
+}
+
+#div2{
+    left: 645px;
+    position: absolute;
+}
+
+#div3{
+    right: 305px;
+    position: absolute;
+}

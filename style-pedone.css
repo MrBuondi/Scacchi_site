@@ -1,0 +1,20 @@
+#video1{
+    left: 375px;
+    position: relative;
+}
+
+#video2{
+    left: 675px;
+    position: absolute;
+    
+}
+
+#video3{
+    right: 375px;
+    position: absolute;
+}
+
+#video4{
+    top: -40px;
+    position: relative;
+}
